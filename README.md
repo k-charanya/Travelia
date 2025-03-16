@@ -1,5 +1,7 @@
 # TRAVELIA
 
+Link : https://67d6684fc4b82e72d50df9ec--subtle-faun-d9efc5.netlify.app/
+
 index.html file consits of the html page with different sections of the webpage.
 
 styles.css file consists of the diffent section styles.
